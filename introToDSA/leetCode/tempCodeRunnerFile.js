@@ -1,1 +1,1 @@
-reversedNum
+nums.length - 1

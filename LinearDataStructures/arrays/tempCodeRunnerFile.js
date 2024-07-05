@@ -1,2 +1,2 @@
-(2);
-arr.insert
+));
+console.log(arr.min());
